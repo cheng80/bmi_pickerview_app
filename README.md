@@ -1,16 +1,5 @@
 # bmi_pickerview_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+기존 텍스트필드 방식의 BMI 계산기를 피커뷰를 통한
+선택으로 변경하여 산택에 대해 실시간으로 BMI 가 
+계산되도록 변경한 앱입니다.
